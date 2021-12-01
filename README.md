@@ -1,5 +1,7 @@
 # İsimler Sözlüğü
 
+![GitHub stars](https://img.shields.io/github/stars/coderserdar/IsimlerSozlugu?style=social) ![GitHub forks](https://img.shields.io/github/forks/coderserdar/IsimlerSozlugu?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/coderserdar/IsimlerSozlugu?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/coderserdar/IsimlerSozlugu?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/coderserdar/IsimlerSozlugu?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/coderserdar/IsimlerSozlugu?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/coderserdar/IsimlerSozlugu?color=red&style=plastic)
+
 This is a **Windows Phone** app which is used to *search human names and their meanings* from a database which is included in app.
 This app is written in **C#** programming language and in **Visual Studio 2015**. 
 
